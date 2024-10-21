@@ -1,44 +1,28 @@
 # Hello, I'm Diogo Pavani!
 
-I'm a web development and passionate about web technologies.
+I am a web developer passionate about web technologies.
 
-🌏 I'm brazilian 
+## 🌏 About Me
+- Brazilian
+- Software Engineer
+- Fullstack Engineer (prefer backend)
+- **Advanced English**
 
-💻 Software Engineer
+## 📚 Favorite Books
+- Data Structures and Algorithms with JavaScript - Loiane Groner
+- Clean Architecture - Robert C. Martin
 
-I'm a fullstack engineer, but I prefer backend
+## 💬 Ask Me About
+- PHP | NodeJS
+- Angular | React | NextJS
+- SQL | NoSQL
+- SOLID Principles | Clean Code
+- Design Patterns
+- Architectures (MVC, Layered, Ports and Adapters)
+- GIT
+- Docker | Linux
 
-📜 Advanced English
-
-📚 Favorite Books:
-Estrutura de Dados e Algoritmos com Javascript - Loiane Groner
-Arquitetura Limpa - Robert C. Martin
-
-💬 Ask me about:
-
-PHP | NodeJS
-
-Angular | React | NextJS
-
-SQL | NoSQL
-
-Solid Principles | Clean Code
-
-Design Patterns
-
-Architectures
-
-MVC
-
-Layered (N Camadas)
-
-Ports and Adapters
-
-GIT
-
-Docker | Linux
-
-🚀 My Skills :
+## 🚀 My Skills
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -58,8 +42,17 @@ Docker | Linux
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-💻 I'm currently learning : Go, Flutter and CyberSecurity
+## 💻 Currently Learning
+- Go
+- Flutter
+- CyberSecurity
+- Machine Learning
 
 
-🛰 How to reach me: pavanidiogo1@gmail.com
- 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F20?style=flat-square&logo=google&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00BFFF?style=flat-square&logo=ai&logoColor=white)
+
+## 🛰 How to Reach Me
+📧 pavanidiogo1@gmail.com
