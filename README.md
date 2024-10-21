@@ -1,16 +1,29 @@
-## Hi there 👋
+I'm a web development and passionate about web technologies.
 
-<!--
-**srpavani/srpavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 I'm brazilian
+💻 Software Engineer
+I'm a fullstack engineer, but I prefer backend
+📜 Advanced English
+📚 Favorite Books:
+Estrutura de Dados e Algoritmos com Javascript - Loiane Groner
+Arquitetura Limpa - Robert C. Martin
+💬 Ask me about:
+PHP | NodeJS
+Angular | React | NextJS
+SQL | NoSQL
+Solid Principles | Clean Code
+Design Patterns
+Architectures
+MVC
+Layered (N Camadas)
+Ports and Adapters
+GIT
+Docker | Linux
+🚀 My Skills :
+PHP, Java, Javascript, C, C++, C#
 
-Here are some ideas to get you started:
+💻 I'm currently learning : Go, Flutter and CyberSecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛰 How to reach me: pavanidiogo1@gmail.com
+ 
