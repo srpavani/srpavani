@@ -27,6 +27,7 @@ I am a web developer passionate about web technologies.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-3E6E8A?style=flat-square&logo=django&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -43,6 +44,7 @@ I am a web developer passionate about web technologies.
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## 💻 Currently Learning
+- Kotlin
 - Go
 - Flutter
 - CyberSecurity
